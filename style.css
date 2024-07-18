@@ -1,0 +1,27 @@
+#logo {
+    width: auto;
+    height: 150px;
+    margin-left: -20px;
+}
+header {
+    background-color: #1A1A1A;
+}
+header img {
+    width: auto;
+    height: 45px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    list-style-type: none;
+}
+a {
+    background-color: black;
+    color: white;
+    text-decoration: none;   
+}
